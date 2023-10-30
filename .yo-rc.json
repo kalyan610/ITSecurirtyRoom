@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.19.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "it-security-room",
+    "libraryId": "1c7efdad-f1ae-4a0f-8113-e1820f36eaee",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "ITSecurityRoom",
+    "solutionShortDescription": "ITSecurityRoom description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

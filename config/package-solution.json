@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "it-security-room-client-side-solution",
+    "id": "1c7efdad-f1ae-4a0f-8113-e1820f36eaee",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "ITSecurityRoom description"
+      },
+      "longDescription": {
+        "default": "ITSecurityRoom description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "it-security-room Feature",
+        "description": "The feature that activates elements of the it-security-room solution.",
+        "id": "6d624977-edf7-4845-a98a-de990464fea3",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/it-security-room.sppkg"
+  }
+}
